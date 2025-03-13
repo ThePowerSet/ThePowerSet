@@ -1,6 +1,6 @@
-## Hi there 👋 i'm Omar, i am a student and i come from Italy.
+## Hi there 👋 i'm Omar, and i am an italian graduate student
 
 - 🎓 I obtained my bachelor in economics and finance at La Sapienza university of Rome, where i am now entrolled for a master in financial risk and data analysis
-- 🔭 I’m currently working on probability theory, stochastic processes and data
-- 🌱 I’m interested in Python, C and R
+- 🔭 I’m currently working on statistical fields, applied stochastic processes and quantitative financial modeling 
+- 🌱 I’m interested in mathematics, programming and Bayesian statistics
  
